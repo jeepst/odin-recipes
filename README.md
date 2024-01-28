@@ -1,0 +1,1 @@
+Well, I guess this is technically my second README file. I moved the first one god knows where. Can't say I'm too used to BASH yet. Anyway, I do not exactly know what the recipes project is about, but I guess we are about to find out.
